@@ -1,4 +1,4 @@
-const apiKey = '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';  // Inserted API key
+const apiKey = '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';  // Inserted API key
 
 // Function to handle text minimization
 async function minimizeText() {
