@@ -1,4 +1,4 @@
-const apiKey = 'YOUR_OPENAI_API_KEY';  // Insert your OpenAI API key here
+const apiKey = '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';  // Inserted API key
 
 // Function to handle text minimization
 async function minimizeText() {
