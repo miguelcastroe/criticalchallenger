@@ -1,4 +1,4 @@
-const apiKey = 'OrmzSboRiPCdIKsPjxG1KceciHvnFekRV7qEBYeE';  // Inserted Cohere API key
+const apiKey = 'd1eFNqcaFF9fLJLceZoqMfDx6lNvKOfVXrlkLsUN';  // Inserted Cohere API key
 
 // Function to handle text minimization using Cohere
 async function minimizeText() {
